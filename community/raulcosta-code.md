@@ -6,7 +6,7 @@
  <h1> Oi, Meu nome é Raul! 🖖 </h1> 
 
  ## Sobre mim
- Sou estudante de Análise e Desenvolvimento de Sistemas, com interesse na área de Quality Assurance. Estou em busca da minha primeira oportunidade na área para poder aprender na prática e evoluir.
+ Sou estudante de Análise e Desenvolvimento de Sistemas, com interesse na área de Quality Assurance. Estou em busca da minha primeira oportunidade na área para poder aprender na prática e evoluir!.
 
 ## Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-costa-do-nascimento-9b4159231)
